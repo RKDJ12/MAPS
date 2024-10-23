@@ -1,3 +1,23 @@
+# MapsActivity - Android App
+
+Este proyecto es una aplicación Android que muestra la ubicación en tiempo real utilizando la **API de Google Maps** y los servicios de **Fused Location Provider**. La aplicación puede mostrar la posición actual del usuario y actualizarla en tiempo real a medida que el usuario se mueve.
+
+## Características
+
+- Visualización de la ubicación actual del usuario en un mapa.
+- Actualización de la ubicación en tiempo real con un marcador que se mueve conforme el usuario cambia de posición.
+- Integración con la **API de Google Maps**.
+- Solicitud de permisos de ubicación en tiempo de ejecución.
+  
+## Requisitos
+
+Para ejecutar este proyecto necesitarás:
+
+- Android Studio (versión recomendada: 2020.3.1 o superior)
+- Un dispositivo físico o un emulador con servicios de Google Play.
+- API Key de Google Maps.
+
+-------------------------------------------------------------------------------------------
 # Vulnerabilities Report
 
 ## Summary
